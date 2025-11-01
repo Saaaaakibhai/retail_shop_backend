@@ -9,12 +9,8 @@ public class RetailshopSoftwareApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RetailshopSoftwareApplication.class, args);
         System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
-        System.out.println("Hello Anis Bhai");
+
+
 
 	}
 }
